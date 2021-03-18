@@ -1,2 +1,2 @@
 # python-datastructures
-Assignment Submissions for Data structures and Algorithms using Python
+Data structures and Algorithms using Python
