@@ -11,8 +11,8 @@ def search(arr,n,val):
             max = mid-1
 
 
-arr = ['1','3','5','8','12','15']
-val = input("Enter the element to search: ")
+arr = [1,3,5,8,12,15]
+val = int(input("Enter the element to search: "))
 n = len(arr)-1
 result = search(arr,n,val)
 if(result):
